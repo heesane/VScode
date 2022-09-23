@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../바탕 화면/coding"
+		},
+		{
+			"name": "Serial",
+			"path": ".."
+		},
+		{
+			"name": "SerialBoard2",
+			"path": "../../SerialBoard2"
+		}
+	],
+	"settings": {}
+}
